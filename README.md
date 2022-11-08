@@ -2,6 +2,7 @@
 ## This is my final project for FCC's course on JavaScript
 
 ![certificate](certificate.jpeg)
+(Verify this certification at https://freecodecamp.org/certification/navknight/javascript-algorithms-and-data-structures)
 
 ### Contents
 - [Palindrome checker](#palindrome-checker)
