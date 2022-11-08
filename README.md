@@ -191,6 +191,8 @@ See below for an example of a cash-in-drawer array:
   ["TWENTY", 60],
   ["ONE HUNDRED", 100]
 ]
+```
+
 
 ```js
 function checkCashRegister(price, cash, cid) {
