@@ -193,6 +193,7 @@ See below for an example of a cash-in-drawer array:
 ]
 ```
 
+#### Solution
 
 ```js
 function checkCashRegister(price, cash, cid) {
